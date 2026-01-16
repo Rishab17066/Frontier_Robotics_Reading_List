@@ -46,7 +46,7 @@ I will release a significantly more comprehensive, education-focused repository 
 - **Skild AI:** Announcing Series C [[Website](https://www.skild.ai/blogs/series-c)]
 - **1X World Model:** From Video to Action: A New Way Robots Learn [[Website](https://www.1x.tech/discover/world-model-self-learning)]
 - **Preference Learning** For Robotic World Model Policies [[Tweet](https://x.com/JackMonas/status/2011142087484338333?s=20)]
-- **Test Time Compute** For Robotic World Model Policies [[Link](https://x.com/itsdanielho/status/2011186214812975113?s=20)]
+- **Test Time Compute** For Robotic World Model Policies [[Tweet](https://x.com/itsdanielho/status/2011186214812975113?s=20)]
 
 ## Reinforcement Learning <a name="reinforcement-learning"></a>
 - **RL-100:** Performant Robotic Manipulation with Real-World Reinforcement Learning [[Paper](https://arxiv.org/abs/2510.14830)]
