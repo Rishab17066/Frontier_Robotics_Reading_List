@@ -1,19 +1,19 @@
 # Frontier Robotics Reading List
-A curated repository of frontier robotics content from Jacob Rintamaki
+Jacob Rintamaki's curated repository of frontier robotics research, essays, and more. 
+This repository is meant to try to capture some of what I'm currently thinking about.
+
+I will release a more comprehensive and educational repository soon. (It will be linked here) 
 
 # What Does This Repository Have? 
 
 - [Markets and Supply Chain](#markets-and-supply-chain) 
-- [](#robotics)
-- [](#llms-and-robotics)
-- [](#research-reasoning)
-- [](#research-planning)
-- [](#research-manipulation)
-- [](#research-instructions-and-navigation)
-- [](#research-simulation-frameworks)
-- [](#research-perception)
-- [](#project-demos) 
-- [](#thoughtful-twitter-threads)
+- [Locomanipulation](#locomanipulation)
+- [VLAs](#vlas)
+- [World Models](#world-models)
+- [Clever Tricks](#clever-tricks)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Real-World Deployments](#real-world-deployments)
+- [Thematic Writing](#thematic-writing)
 - [Citation](#citation)
 
 ## Markets and Supply Chain <a name="markets-and-supply-chain"></a>
