@@ -1,7 +1,22 @@
-# Frontier Robotics Reading list
+# Frontier Robotics Reading List
 A curated repository of frontier robotics content from Jacob Rintamaki
 
-## Markets + Supply Chain
+# What Does This Repository Have? 
+
+- [Markets and Supply Chain](#markets-and-supply-chain) 
+- [](#robotics)
+- [](#llms-and-robotics)
+- [](#research-reasoning)
+- [](#research-planning)
+- [](#research-manipulation)
+- [](#research-instructions-and-navigation)
+- [](#research-simulation-frameworks)
+- [](#research-perception)
+- [](#project-demos) 
+- [](#thoughtful-twitter-threads)
+- [Citation](#citation)
+
+## Markets and Supply Chain <a name="markets-and-supply-chain"></a>
 - Quadruped State of The Market - Unitree, Boston Dynamics, ANYbotics, DEEP Robotics, and The Rising Application Ecosystem [Link](https://newsletter.semianalysis.com/p/quadruped-state-of-the-market-unitree)
 - Citrini: Thematic Primer: Humanoid Robots [Link](https://www.citrini.com/post/thematic-primer-humanoid-robots)
 
@@ -53,7 +68,22 @@ A curated repository of frontier robotics content from Jacob Rintamaki
 - Sergey Levine: Sporks of AGI: Why the Real Thing is better than the Next Best Thing [Link](https://sergeylevine.substack.com/p/sporks-of-agi)
 - A Love Letter to CVPR [Link](https://vedder.io/misc/lover_letter_to_cvpr.html)
 - The Final Offshoring [Link](https://finaloffshoring.com/) 
-- Many Small Steps for Robots, One Giant Leap for Mankind [Link](https://www.notboring.co/p/robot-steps) 
+- Many Small Steps for Robots, One Giant Leap for Mankind [Link](https://www.notboring.co/p/robot-steps)
+
+
+## Citation <a name="citation"></a>
+If you find this repository useful, please consider citing this list:
+
+```
+@misc{rintamaki2026frontierroboticsreadinglistrepo,
+    title={Frontier_Robotics_Reading_List},
+    author={Jacob Rintamaki},
+    journal={GitHub repository},
+    url={https://github.com/jrin771/Frontier_Robotics_Reading_List},
+    year={2026},
+}
+```
+
 
 
 
