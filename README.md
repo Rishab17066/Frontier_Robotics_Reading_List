@@ -6,11 +6,12 @@ A curated repository of frontier robotics content from Jacob Rintamaki
 - Citrini: Thematic Primer: Humanoid Robots [Link](https://www.citrini.com/post/thematic-primer-humanoid-robots)
 
 ## Locomanipulation
-- Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation [Link](https://rpg.ifi.uzh.ch/lotf/)
-- DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer[Link](https://doorman-humanoid.github.io/) 
-- TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [Link](https://yanjieze.com/TWIST2/) 
-- VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
-- LeCAR Lab at CMU [Link](https://lecar-lab.github.io/)
+* Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation [Link](https://rpg.ifi.uzh.ch/lotf/)
+* DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer[Link](https://doorman-humanoid.github.io/) 
+* TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [Link](https://yanjieze.com/TWIST2/) 
+* VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
+* LeCAR Lab at CMU [Link](https://lecar-lab.github.io/)
+  - Hello there
 
 ## VLAs
 - VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [Link](https://cladernyjorn.github.io/VLM4VLA.github.io/)
