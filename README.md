@@ -43,22 +43,22 @@ I will release a significantly more comprehensive, education-focused repository 
 - **GEN-0:** Embodied Foundation Models That Scale with Physical Interaction [[Post](https://generalistai.com/blog/nov-04-2025-GEN-0)]
 
 ## World Models <a name="world-models"></a>
-- **Skild AI:** Announcing Series C [Website](https://www.skild.ai/blogs/series-c)]
-- **1X World Model:** From Video to Action: A New Way Robots Learn [Website](https://www.1x.tech/discover/world-model-self-learning)]
-- **Preference Learning** For Robotic World Model Policies [Tweet](https://x.com/JackMonas/status/2011142087484338333?s=20)]
-- **Test Time Compute** For Robotic World Model Policies [Link](https://x.com/itsdanielho/status/2011186214812975113?s=20)]
+- **Skild AI:** Announcing Series C [[Website](https://www.skild.ai/blogs/series-c)]
+- **1X World Model:** From Video to Action: A New Way Robots Learn [[Website](https://www.1x.tech/discover/world-model-self-learning)]
+- **Preference Learning** For Robotic World Model Policies [[Tweet](https://x.com/JackMonas/status/2011142087484338333?s=20)]
+- **Test Time Compute** For Robotic World Model Policies [[Link](https://x.com/itsdanielho/status/2011186214812975113?s=20)]
 
 ## Reinforcement Learning <a name="reinforcement-learning"></a>
-- **RL-100:** Performant Robotic Manipulation with Real-World Reinforcement Learning [Paper](https://arxiv.org/abs/2510.14830)
-- **HiL-SERL:** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [Website](https://hil-serl.github.io/)
-- **Posterior Behavioral Cloning:** Pretraining BC Policies for Efficient RL Finetuning [Paper](https://arxiv.org/abs/2512.16911)
-- **SpeedTuning:** Speeding Up Policy Execution with Lightweight Reinforcement Learning [Paper](https://ieeexplore.ieee.org/document/11128753)
-- **SpeedAug:** Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning [Paper](https://arxiv.org/abs/2512.00062) 
+- **RL-100:** Performant Robotic Manipulation with Real-World Reinforcement Learning [[Paper](https://arxiv.org/abs/2510.14830)]
+- **HiL-SERL:** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Website](https://hil-serl.github.io/)]
+- **Posterior Behavioral Cloning:** Pretraining BC Policies for Efficient RL Finetuning [[Paper](https://arxiv.org/abs/2512.16911)]
+- **SpeedTuning:** Speeding Up Policy Execution with Lightweight Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/document/11128753)]
+- **SpeedAug:** Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning [[Paper](https://arxiv.org/abs/2512.00062)]
 
 ## Real-World Deployments <a name="real-world-deployments"></a>
 - **2025 BEHAVIOR** Challenge Results [[Website](https://behavior.stanford.edu/challenge/index.html)]
 - **Learning on the Fly:** Rapid Policy Adaptation via Differentiable Simulation [[Website](https://rpg.ifi.uzh.ch/lotf/)]
-- **Robotics** Levels Of Autonomy [[Post](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
+- **Robotics** Levels Of Autonomy [[Post](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy)]
 - **Auki** Labs [[X Account](https://x.com/AukiLabs)]
 - **Dimensional** OS [[X Account](https://x.com/dimensionalos)]
 - **SOP:** Scaling General-Purpose Robots in the Real World [[Website](https://agibot.com/research/sop)]
