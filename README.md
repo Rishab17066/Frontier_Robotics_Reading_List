@@ -2,48 +2,42 @@
 A curated repository of frontier robotics content from Jacob Rintamaki
 
 ## Quadrupeds (or other cate4gories that are good) 
-
-- [Robotics Levels Of Autonomy](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
-- [2025 BEHAVIOR Challenge Results](https://behavior.stanford.edu/challenge/index.html)
-- [SpeedAug](https://arxiv.org/abs/2512.00062) 
-- [SpeedTuning](https://ieeexplore.ieee.org/document/11128753) 
-
-- [Shuran Song, Stanford Professor](https://shurans.github.io/)
-- [GEN-0 / Embodied Foundation Models That Scale with Physical Interaction](https://generalistai.com/blog/nov-04-2025-GEN-0)
-- [Dyna: Open-World Dexterity and Live Demos around the World](https://www.dyna.co/dyna-2/research)
-- [The case for an omni-bodied robot brain](https://www.skild.ai/blogs/omni-bodied)
-
-- [Eric Jang: All Roads Lead to Robotics](https://evjang.com/2024/03/03/all-roads-robots.html)
-- [Sergey Levine: Sporks of AGI: Why the Real Thing is better than the Next Best Thing](https://sergeylevine.substack.com/p/sporks-of-agi)
-- [Kyle Vedder: blog post 1, blog post 2, also the moravec's paradox thing he posted 
-
-  
-TTC in world models, other content, etc.  (flow equivariant maps)
-Oliver HSU deployments, RL-100, also that one bytedance paper or whatever about learning from the field, plus all the ERP/Fleet Managmeent System/MES/etc. 
-Citrini robot BOM 
-SemiAnalysis Quadrupeds
-Manipulation Sharun Song, 
-Add in the winning thread here as well 
-Memory Stuff 
-Pretraining stuff from Sergey’s Lab 
-The auki 3d percpetion maps
-dimensional
-The locomotion reasoning + other papers that are quite interesting
-- [In-the-Wild Compliant Manipulation with UMI-FT](https://arxiv.org/html/2601.09988v1)
-
-- [ACT-1: A Robot Foundation Model Trained on Zero Robot Data](https://www.sunday.ai/journal/no-robot-data)
-- [DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](https://doorman-humanoid.github.io/) 
-- [TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System](https://yanjieze.com/TWIST2/) 
-- [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](https://arxiv.org/abs/2511.15200) 
-- [LeCAR Lab at CMU](https://lecar-lab.github.io/)  
-- [VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models](https://cladernyjorn.github.io/VLM4VLA.github.io/) 
-- [π*0.6: a VLA that Learns from Experience](https://www.pi.website/blog/pistar06) 
-- [Emergence of Human to Robot Transfer in VLAs](https://www.pi.website/research/human_to_robot)
-- [Moravec's Paradox and the Robot Olympics](https://www.pi.website/blog/olympics)
-- [Training-Time Action Conditioning for Efficient Real-Time Chunking](https://arxiv.org/abs/2512.05964)
-- [Skild AI: Announcing Series C](https://www.skild.ai/blogs/series-c) 
-- [1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning) 
-- [The Physical AI Deployment Gap](https://x.com/oyhsu/status/2011099777665036768?s=20) 
-- [The Final Offshoring](https://finaloffshoring.com/) 
-- [Many Small Steps for Robots, One Giant Leap for Mankind](https://www.notboring.co/p/robot-steps) 
-
+- Robotics Levels Of Autonomy [Link](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy) 
+- 2025 BEHAVIOR Challenge Results [Link](https://behavior.stanford.edu/challenge/index.html)
+- SpeedAug [Link](https://arxiv.org/abs/2512.00062) 
+- SpeedTuning [Link](https://ieeexplore.ieee.org/document/11128753) 
+- GEN-0 / Embodied Foundation Models That Scale with Physical Interaction [Link](https://generalistai.com/blog/nov-04-2025-GEN-0)
+- Dyna: Open-World Dexterity and Live Demos around the World [Link](https://www.dyna.co/dyna-2/research)
+- The case for an omni-bodied robot brain [Link](https://www.skild.ai/blogs/omni-bodied)
+- Eric Jang: All Roads Lead to Robotics [Link](https://evjang.com/2024/03/03/all-roads-robots.html)
+- Sergey Levine: Sporks of AGI: Why the Real Thing is better than the Next Best Thing [Link](https://sergeylevine.substack.com/p/sporks-of-agi)
+- State of Robot Learning — December 2025 [Link](https://vedder.io/misc/state_of_robot_learning_dec_2025.html)
+- A Love Letter to CVPR [Link](https://vedder.io/misc/lover_letter_to_cvpr.html)
+- Quadruped State of The Market - Unitree, Boston Dynamics, ANYbotics, DEEP Robotics, and The Rising Application Ecosystem [Link](https://newsletter.semianalysis.com/p/quadruped-state-of-the-market-unitree)
+- Citrini: Robotics Update [Link](https://www.citriniresearch.com/p/robotics-update)
+- Citrini: Thematic Primer: Humanoid Robots [Link](https://www.citrini.com/post/thematic-primer-humanoid-robots)
+- RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning [Link](https://arxiv.org/abs/2510.14830)
+- HiL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [Link](https://hil-serl.github.io/)
+- Auki Labs [Link](https://x.com/AukiLabs)
+- Dimensional OS [Link](https://x.com/dimensionalos)
+- Learning on the Fly: Rapid Policy Adaptation via Differentiable Simulation [Link](https://rpg.ifi.uzh.ch/lotf/)
+- In-the-Wild Compliant Manipulation with UMI-FT [Link](https://arxiv.org/html/2601.09988v1)
+- ACT-1: A Robot Foundation Model Trained on Zero Robot Data [Link](https://www.sunday.ai/journal/no-robot-data)
+- DoorMan: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer[Link](https://doorman-humanoid.github.io/) 
+- TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [Link](https://yanjieze.com/TWIST2/) 
+- VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [Link](https://arxiv.org/abs/2511.15200) 
+- LeCAR Lab at CMU [Link](https://lecar-lab.github.io/)  
+- VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [Link](https://cladernyjorn.github.io/VLM4VLA.github.io/) 
+- π*0.6: a VLA that Learns from Experience [Link](https://www.pi.website/blog/pistar06) 
+- Emergence of Human to Robot Transfer in VLAs [Link](https://www.pi.website/research/human_to_robot)
+- Moravec's Paradox and the Robot Olympics [Link]((https://www.pi.website/blog/olympics)
+- Training-Time Action Conditioning for Efficient Real-Time Chunking [Link](https://arxiv.org/abs/2512.05964)
+- Skild AI: Announcing Series C [Link](https://www.skild.ai/blogs/series-c) 
+- 1X World Model | From Video to Action: A New Way Robots Learn [Link](https://www.1x.tech/discover/world-model-self-learning) 
+- The Physical AI Deployment Gap [Link](https://x.com/oyhsu/status/2011099777665036768?s=20) 
+- The Final Offshoring [Link](https://finaloffshoring.com/) 
+- Many Small Steps for Robots, One Giant Leap for Mankind [Link](https://www.notboring.co/p/robot-steps) 
+- Preference Learning For Robotic World Model Policies [Link](https://x.com/JackMonas/status/2011142087484338333?s=20) 
+- Test Time Compute For Robotic World Model Policies [Link](https://x.com/itsdanielho/status/2011186214812975113?s=20)
+- Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning [Link](https://arxiv.org/abs/2512.16911)
+- SOP: Scaling General-Purpose Robots in the Real World [Link](https://agibot.com/research/sop)
